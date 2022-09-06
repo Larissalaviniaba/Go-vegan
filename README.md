@@ -20,7 +20,7 @@ Site desenvolvido com o objetivo de facilitar o acesso a informações sobre veg
 
 ## | Visualize o projeto |
 
-https://go-vegan-vert.vercel.app/
+https://go-vegan-two.vercel.app/
 
 ## | Create App |
 
